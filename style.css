@@ -1,0 +1,51 @@
+#d{
+    height: 85px;
+}
+#a{
+    display: flex;
+    margin: 20px;
+}
+h1{
+    margin-left: 10px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#kk{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 190px;
+}
+#jj{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+#ss{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 90px;
+    border-radius: 70%;
+}
+#ff{
+    display: flex;
+}
+#b{
+    width:400px;
+    height:100em
+}
+#c{
+    width: 1900px;
+    height: 100em;
+    list-style-type:none
+}
+.jjjj{
+    list-style-type:none;
+    margin-top: 10px;
+}
